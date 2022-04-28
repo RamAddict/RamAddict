@@ -7,7 +7,7 @@
 
 - 🔭 My mind is very creative, full with cool ideas, such as [bolsonaro discord bot](https://github.com/RamAddict/bolsonaro-bot), or [CRU - Crytpo token](https://github.com/RamAddict/CRU-Crypto_RU)
 
-- 🌱 I’m currently learning about Web development, with stuf like **NestJS, JS, Node**
+- 🌱 I’m currently learning about Web development, with stuf like **Spring, JS, Node**
 
 - 🕸 Especially because of knowledge gained [with my thesis](https://github.com/RamAddict/CRU-Crypto_RU)
 
