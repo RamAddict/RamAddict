@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Arthur Philippi Bianco and I'm a web developer from Brazil</h2>
+<h2 align="left">Hi 👋! My name is Arthur Bianco and I'm a web developer from Brazil</h2>
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramaddict&label=Profile%20views&color=0e75b6&style=flat" alt="ramaddict" /> </p>
 
