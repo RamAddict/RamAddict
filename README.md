@@ -5,7 +5,7 @@
 <br clear="both">
 
 <img align="right" height="180" src="https://media3.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif?cid=ecf05e47qk2iy8oiwv7xsfu9o7kbo72muyov2tz9p5dgn8sl&rid=giphy.gif&ct=g"  />
-<a href="https://app.daily.dev/apbianco"><img src="https://api.daily.dev/devcards/v2/hhUwRwXoFCnU5aQtKl5bE.png?r=ayc&type=default" width="356" alt="Arthur Philippi Bianco's Dev Card"/></a>
+<a href="https://app.daily.dev/apbianco"><img src="https://api.daily.dev/devcards/v2/hhUwRwXoFCnU5aQtKl5bE.png?r=ayc&type=wide" width="652" alt="Arthur Philippi Bianco's Dev Card"/></a>
 ###
 
 <div align="left">
