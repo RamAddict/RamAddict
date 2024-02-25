@@ -8,11 +8,6 @@
 <a href="https://app.daily.dev/apbianco"><img src="https://api.daily.dev/devcards/v2/hhUwRwXoFCnU5aQtKl5bE.png?r=ayc&type=wide" width="652" alt="Arthur Philippi Bianco's Dev Card"/></a>
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&username=ramaddict" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&username=ramaddict" height="150" alt="languages graph"  />
-</div>
-
 ###
 
 <br clear="both">
