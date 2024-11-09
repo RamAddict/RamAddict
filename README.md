@@ -9,6 +9,9 @@
 
 ###
 
+<br/>
+check out my personal page: https://ramaddict.github.io/
+
 <br clear="both">
 
 <p align="left">Stuff I used / use / like to use</p>
